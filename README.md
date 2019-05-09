@@ -25,3 +25,4 @@ pip install numpy
 
 İt takes a mean of frames. So moving objects are deleted from the frame. Background can be extracted that way.
 ## Result
+![background](background.jpg)
